@@ -9,7 +9,7 @@
         "args": { "VARIANT": "18" }
     },
 
-    // Set *default* container specific settings.json values on container create.
+    // Set *default* container specific settings.json values on container trash.
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash",
         "cSpell.language": ",en"
